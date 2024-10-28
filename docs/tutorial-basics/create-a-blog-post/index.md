@@ -1,4 +1,6 @@
 ---
+title: Create a Blog Post
+sidebar_label: Create a Blog Post
 sidebar_position: 3
 ---
 

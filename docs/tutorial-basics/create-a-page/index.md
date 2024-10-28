@@ -1,4 +1,6 @@
 ---
+title: Create a Page
+sidebar_label: Create a Page
 sidebar_position: 1
 ---
 

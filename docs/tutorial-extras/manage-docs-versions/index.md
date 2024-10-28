@@ -1,4 +1,6 @@
 ---
+title: Manage Docs Versions
+sidebar_label: Manage Docs Versions
 sidebar_position: 1
 ---
 
@@ -45,7 +47,7 @@ export default {
 
 The docs version dropdown appears in your navbar:
 
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
+![Docs Version Dropdown](../img/docsVersionDropdown.png)
 
 ## Update an existing version
 

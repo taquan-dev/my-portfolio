@@ -1,4 +1,6 @@
 ---
+title: Deploy your site
+sidebar_label: Deploy your site
 sidebar_position: 5
 ---
 
